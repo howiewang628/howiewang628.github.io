@@ -20,7 +20,7 @@
 | `talk.json` | 特邀报告：Teaching & Talks 页和 CV |
 | `mentoring.json` | 指导学生：Teaching & Talks 页和 CV |
 | `collaborate.json` | 首页的合作者致谢 |
-| `settings.json` | 背景颜色、标签的中文（`zhLabels`）、导航栏外链 |
+| `settings.json` | 背景颜色、标签的中文（`zhLabels`）、导航栏外链、CV 页底部打开这个文件夹的小链接（`editLink`） |
 
 ## 规则
 

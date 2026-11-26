@@ -27,5 +27,12 @@
   },
   "usefulLinks": {
     "Conference Deadlines": "https://ccfddl.com/"
+  },
+  "editLink": {
+    "label": {
+      "en": "Edit site content on GitHub",
+      "zh": "在 GitHub 上编辑网站内容"
+    },
+    "url": "https://github.com/howiewang628/howiewang628.github.io/tree/main/content"
   }
 }
