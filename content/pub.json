@@ -1,7 +1,8 @@
 {
   "publicationTypeOrder": [
     "Conference",
-    "Journal"
+    "Journal",
+    "Preprint"
   ],
   "publications": [
     {
@@ -128,6 +129,107 @@
       "abstract": {
         "en": "Traditional subspace feature selection methods typically rely on a fixed distance to compute residuals between the original and feature reconstruction spaces. However, this approach struggles to adapt to diverse datasets and often fails to handle noise and outliers effectively. In this paper, we propose an unsupervised feature selection method named unsupervised feature selection algorithm based on l2,p-norm feature reconstruction (NFRFS). Employing a flexible norm to represent both the original space and the spatial distance of feature reconstruction, enhances adaptability and broadens its applicability by adjusting p. Additionally, adaptive graph learning is integrated into the feature selection process to preserve the local geometric structure of the data. Features exhibiting sparsity and low redundancy are selected through the regularization constraint of the inner product in the feature selection matrix. To demonstrate the effectiveness of the method, numerical studies were conducted on 14 benchmark datasets. Our results indicate that the method outperforms 10 unsupervised feature selection algorithms in terms of clustering performance.",
         "zh": "传统的子空间特征选择方法通常依赖固定的距离来计算原始空间与特征重构空间之间的残差。然而，这种做法难以适应多样的数据集，也往往不能有效处理噪声和异常值。本文提出一种基于 l2,p 范数特征重构的无监督特征选择方法（NFRFS）。该方法采用灵活的范数来表示原始空间以及特征重构的空间距离，通过调整 p 增强了适应性并拓宽了适用范围。此外，特征选择过程中引入了自适应图学习，以保持数据的局部几何结构；并通过特征选择矩阵内积的正则化约束，选出具有稀疏性和低冗余性的特征。为验证方法的有效性，我们在 14 个基准数据集上进行了数值实验。结果表明，该方法的聚类性能优于 10 种无监督特征选择算法。"
+      }
+    },
+    {
+      "title": {
+        "en": "Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games",
+        "zh": "基于强化学习的文本游戏智能体设计与优化"
+      },
+      "authors": [
+        "Haonan Wang",
+        "Mingjia Zhao",
+        "Junfeng Sun",
+        "Wei Liu"
+      ],
+      "venue": {
+        "en": "International Journal of Computer Science and Information Technology",
+        "zh": "International Journal of Computer Science and Information Technology"
+      },
+      "year": 2025,
+      "type": "Journal",
+      "topic": "Machine learning",
+      "selected": false,
+      "links": {
+        "Paper": "https://doi.org/10.62051/ijcsit.v5n2.02",
+        "arXiv": "https://arxiv.org/abs/2509.03479"
+      },
+      "bibtex": {
+        "volume": "5",
+        "number": "2",
+        "pages": "7--12",
+        "doi": "10.62051/ijcsit.v5n2.02"
+      },
+      "abstract": {
+        "en": "As AI technology advances, research in playing text-based games with agents has become progressively popular. In this paper, a novel approach to agent design and agent learning is presented with the context of reinforcement learning. A model of deep learning is first applied to process game text and build a world model. Next, the agent is learned through a policy gradient-based deep reinforcement learning method to facilitate conversion from state value to optimal policy. The enhanced agent works better in several text-based game experiments and significantly surpasses previous agents on game completion ratio and win rate. Our study introduces novel understanding and empirical ground for using reinforcement learning for text games and sets the stage for developing and optimizing reinforcement learning agents for more general domains and problems.",
+        "zh": "随着人工智能技术的发展，用智能体玩文本游戏的研究日益受到关注。本文在强化学习的框架下提出了一种新的智能体设计与学习方法：首先用深度学习模型处理游戏文本并构建世界模型；然后通过基于策略梯度的深度强化学习方法训练智能体，实现从状态价值到最优策略的转化。改进后的智能体在多个文本游戏实验中表现更好，在游戏完成率和胜率上显著超过以往的智能体。本研究为将强化学习用于文本游戏提供了新的认识和实证依据，也为在更广泛的领域和问题中开发、优化强化学习智能体奠定了基础。"
+      }
+    },
+    {
+      "title": {
+        "en": "Research on the Integration of Embodied Intelligence and Reinforcement Learning in Textual Domains",
+        "zh": "文本领域中具身智能与强化学习的融合研究"
+      },
+      "authors": [
+        "Haonan Wang",
+        "Junfeng Sun",
+        "Mingjia Zhao",
+        "Wei Liu"
+      ],
+      "venue": {
+        "en": "Journal of Computer Science and Artificial Intelligence",
+        "zh": "Journal of Computer Science and Artificial Intelligence"
+      },
+      "year": 2025,
+      "type": "Journal",
+      "topic": "Machine learning",
+      "selected": false,
+      "links": {
+        "Paper": "https://doi.org/10.54097/phnc5w05",
+        "arXiv": "https://arxiv.org/abs/2510.01076"
+      },
+      "bibtex": {
+        "volume": "2",
+        "number": "2",
+        "pages": "57--60",
+        "doi": "10.54097/phnc5w05"
+      },
+      "abstract": {
+        "en": "This article addresses embodied intelligence and reinforcement learning integration in the field of text processing, aiming to enhance text handling with more intelligence on the basis of embodied intelligence's perception and action superiority and reinforcement learning's decision optimization capability. Through detailed theoretical explanation and experimental exploration, a novel integration model is introduced. This model has been demonstrated to be very effective in a wide range of text processing tasks, validating its applicative potential.",
+        "zh": "本文研究具身智能与强化学习在文本处理领域的融合，旨在结合具身智能在感知与行动方面的优势和强化学习的决策优化能力，使文本处理更加智能。通过详细的理论阐述与实验探索，本文提出了一种新的融合模型。该模型在多种文本处理任务中被证明非常有效，验证了其应用潜力。"
+      }
+    },
+    {
+      "title": {
+        "en": "IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning",
+        "zh": "IM3HRL：模型辅助的内在动机模块化分层强化学习"
+      },
+      "authors": [
+        "Wei Liu",
+        "Jiaxiang Wang",
+        "Guangwei Liu",
+        "Haonan Wang"
+      ],
+      "venue": {
+        "en": "Research Square",
+        "zh": "Research Square"
+      },
+      "year": 2024,
+      "type": "Preprint",
+      "topic": "Machine learning",
+      "selected": false,
+      "bibtexType": "misc",
+      "links": {
+        "Paper": "https://www.researchsquare.com/article/rs-4299675/v1"
+      },
+      "bibtex": {
+        "doi": "10.21203/rs.3.rs-4299675/v1",
+        "url": "https://www.researchsquare.com/article/rs-4299675/v1",
+        "note": "Preprint"
+      },
+      "abstract": {
+        "en": "Goal-conditioned reinforcement learning (GCRL) excels in tackling intricate decision-making tasks by managing multiple goals simultaneously. To enhance the agent’s exploration and learning capabilities within complex tasks, modular goal representation is first combined with a hierarchical structure. Additionally, we introduce the CLP task priority metric and intrinsic motivation reward function to guide the agent, facilitating cross-module and cross-goal learning for efficient exploration. Furthermore, we implement a Future Goal Relabeling Strategy (FGRS) to diversify goals. Leveraging a learned dynamics model, the short-rollout is performed from the current policy to generate predictive goals, thus improving the efficiency of the policy optimization process. Finally, by integrating the above improvements, model-assisted intrinsically motivated modular hierarchical reinforcement learning (IM3HRL) is proposed. Experimental results in the Modular Goal Fetch Arm test environment demonstrate that IM3HRL outperforms other baseline methods, achieving a minimum 15% improvement in learning speed and exhibiting robustness against forgetting and sensor perturbations. Our research results prove the excellent model performance of IM3HRL and hold significant practical value for GCRL to solve the problem of exploratory learning in complex tasks.",
+        "zh": "目标条件强化学习（GCRL）能够同时处理多个目标，擅长解决复杂的决策任务。为增强智能体在复杂任务中的探索与学习能力，本文首先将模块化目标表示与分层结构相结合，并引入 CLP 任务优先级度量和内在动机奖励函数来引导智能体，促进跨模块、跨目标的学习，从而实现高效探索。此外，本文采用未来目标重标记策略（FGRS）来丰富目标：借助学习到的动力学模型，从当前策略出发进行短程推演以生成预测目标，从而提高策略优化的效率。综合上述改进，本文提出了模型辅助的内在动机模块化分层强化学习（IM3HRL）。在 Modular Goal Fetch Arm 测试环境中的实验结果表明，IM3HRL 优于其他基线方法，学习速度至少提升 15%，并且对遗忘和传感器扰动具有鲁棒性。研究结果证明了 IM3HRL 优异的模型性能，对 GCRL 解决复杂任务中的探索式学习问题具有重要的实际价值。"
       }
     },
     {

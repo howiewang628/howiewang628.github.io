@@ -4,7 +4,7 @@
 
 ## 换新简历（在 GitHub 网页上）
 
-1. 在电脑上把新的 PDF 改名为 `Haonan_Wang_CV.pdf`，名字要完全一样，包括大小写。
+1. 在电脑上把新的 PDF 改名为 `Haonan_Wang_CV.pdf`，名字要完全一样，包括大小写，**最后的 `.pdf` 也不能少**。如果是在 GitHub 网页上改名，也要写全 `Haonan_Wang_CV.pdf`，少了 `.pdf` 网站上的按钮就打不开。
 2. 在这个页面（`cv` 文件夹）点右上角 **Add file → Upload files**，把文件拖进去。
 3. 点 **Commit changes**。同名文件会被替换，一两分钟后网站上就是新简历。
    如果浏览器里还是旧的，按 `Cmd + Shift + R` 强制刷新。

@@ -1,0 +1,43 @@
+# Every 3 hours: reads the Google Scholar citation count (through SerpApi) and,
+# when it has changed, saves it to scholar/citations.json. The Publications page
+# shows it next to the number of publications.
+# Needs one repository secret: SERPAPI_KEY (Settings → Secrets and variables → Actions).
+# Run it by hand from the Actions tab: "Update Google Scholar citations" → Run workflow.
+name: Update Google Scholar citations
+
+on:
+  schedule:
+    - cron: "17 */3 * * *" # every 3 hours (UTC); GitHub may start scheduled runs late
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scholar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Read citations
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+          SCHOLAR_ID: DBxarZYAAAAJ
+        run: python3 .github/scripts/update_scholar.py
+
+      - name: Save if changed
+        run: |
+          git add scholar/citations.json
+          if git diff --cached --quiet; then
+            echo "Citations unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update Google Scholar citations"
+          git pull --rebase origin main
+          git push

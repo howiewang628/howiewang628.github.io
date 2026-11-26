@@ -23,7 +23,9 @@
     "2nd": "二等奖",
     "3rd": "三等奖",
     "PRC Software Copyright": "中国软件著作权",
-    "Intelligent Scheduling Agents": "智能调度智能体板块"
+    "Intelligent Scheduling Agents": "智能调度智能体板块",
+    "Preprint": "预印本",
+    "arXiv": "arXiv"
   },
   "usefulLinks": {
     "Conference Deadlines": "https://ccfddl.com/"
