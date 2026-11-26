@@ -13,7 +13,7 @@
 | `education.json` | 教育背景：首页和 CV |
 | `employment.json` | 工作经历（`employment`，首页和 CV）；产业与学术团体（`industry`，CV） |
 | `service.json` | 学术服务：首页和 CV |
-| `software.json` | Software & Intellectual Property 页的“软件著作权”，以及 CV |
+| `software.json` | Software & Intellectual Property 页的“软件开发著作权”，以及 CV |
 | `unitemind.json` | Software & Intellectual Property 页的“UniteMind AI”：角色、一句话介绍、链接 |
 | `honors.json` | 荣誉（`honors`）和竞赛（`competitions`）：Awards 页和 CV |
 | `teaching.json` | 教学：Teaching & Talks 页和 CV |
