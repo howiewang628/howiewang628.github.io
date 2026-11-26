@@ -1,0 +1,121 @@
+{
+  "research": [
+    {
+      "name": {
+        "en": "LLM Agent Reasoning & Multi-Agent Collaboration",
+        "zh": "LLM 智能体推理与多智能体协作"
+      },
+      "summary": {
+        "en": "How language model agents reason, work together, and fail.",
+        "zh": "语言模型智能体如何推理、协作，又会如何失败。"
+      },
+      "paragraphs": [
+        {
+          "en": "I study how collaboration structures, interaction protocols, feedback and agent heterogeneity shape reasoning performance, reliability and failure modes in multi-agent systems.",
+          "zh": "我研究协作结构、交互协议、反馈机制与智能体异质性如何影响多智能体系统的推理性能、可靠性与失效模式。"
+        }
+      ],
+      "topics": [
+        {
+          "name": {
+            "en": "World Modeling",
+            "zh": "世界建模"
+          },
+          "text": {
+            "en": "Text games as a test of how well language models simulate interactive worlds.",
+            "zh": "以文本游戏检验语言模型模拟交互世界的能力。"
+          },
+          "links": {
+            "Paper": "https://arxiv.org/abs/2509.23979",
+            "Code": "https://github.com/isle-dev/BYTESIZED32-Refactored/"
+          }
+        },
+        {
+          "name": {
+            "en": "Qualitative Analysis with Language Models",
+            "zh": "基于语言模型的质性分析"
+          },
+          "text": {
+            "en": "Treating disagreement between perspectives as knowledge instead of noise.",
+            "zh": "把不同视角之间的分歧视为知识，而不是噪声。"
+          },
+          "links": {
+            "PerspectiveCoder-LM": "https://github.com/haonanwang628/PerspectiveCoder-LLM",
+            "Position paper": "https://aclanthology.org/2025.hcinlp-1.20/"
+          }
+        }
+      ],
+      "papers": [],
+      "figure": "agents",
+      "logos": [
+        "images/logos/openai.svg",
+        "images/logos/claude.svg",
+        "images/logos/qwen.svg",
+        "images/logos/gemini.svg",
+        "images/logos/deepseek.svg",
+        "images/logos/meta.svg"
+      ],
+      "links": {}
+    },
+    {
+      "name": {
+        "en": "Legal AI Agent",
+        "zh": "法律 AI 智能体"
+      },
+      "summary": {
+        "en": "Reasoning over long, complex legal documents with language model agents.",
+        "zh": "让语言模型智能体在冗长复杂的法律文档上进行推理。"
+      },
+      "paragraphs": [
+        {
+          "en": "I study complex long-context documents for legal reasoning in LLM-based systems and retrieval-augmented generation, with particular interest in evidence grounding, multi-perspective reasoning and collaborative decision-making.",
+          "zh": "我研究基于大语言模型的系统与检索增强生成如何在复杂长文档上进行法律推理，重点关注证据溯源、多视角推理与协同决策。"
+        }
+      ],
+      "topics": [],
+      "papers": [],
+      "figure": "clauses",
+      "links": {}
+    },
+    {
+      "name": {
+        "en": "Machine Learning",
+        "zh": "机器学习"
+      },
+      "summary": {
+        "en": "Feature selection, image classification and data analysis.",
+        "zh": "特征选择、图像分类与数据分析。"
+      },
+      "paragraphs": [
+        {
+          "en": "I work on unsupervised feature selection, image classification with deep learning, and machine learning for big data analysis.",
+          "zh": "我从事无监督特征选择、基于深度学习的图像分类，以及面向大数据分析的机器学习研究。"
+        }
+      ],
+      "topics": [],
+      "papers": [],
+      "figure": "features",
+      "links": {}
+    },
+    {
+      "name": {
+        "en": "Reinforcement Learning",
+        "zh": "强化学习"
+      },
+      "summary": {
+        "en": "Goal-conditioned, modular and hierarchical reinforcement learning.",
+        "zh": "目标条件、模块化与分层强化学习。"
+      },
+      "paragraphs": [
+        {
+          "en": "Through the projects I mentor, I work on offline goal-conditioned reinforcement learning, modular reinforcement learning with language embeddings, and hierarchical control for vehicle routing.",
+          "zh": "通过所指导的项目，我从事离线目标条件强化学习、结合语言嵌入的模块化强化学习，以及面向车辆路径问题的分层控制研究。"
+        }
+      ],
+      "topics": [],
+      "papers": [],
+      "figure": "loop",
+      "links": {}
+    }
+  ]
+}

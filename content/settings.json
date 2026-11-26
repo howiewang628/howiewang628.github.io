@@ -1,0 +1,31 @@
+{
+  "theme": {
+    "background": "#EAF2FA",
+    "panel": "#D9E6F3",
+    "line": "#C3D3E3"
+  },
+  "zhLabels": {
+    "Paper": "论文",
+    "Code": "代码",
+    "Slides": "幻灯片",
+    "Video": "视频",
+    "Project": "项目",
+    "Position paper": "立场论文",
+    "Google Scholar": "谷歌学术",
+    "Conference Deadlines": "会议截止日期",
+    "Conference": "会议",
+    "Journal": "期刊",
+    "Language models": "语言模型",
+    "Machine learning": "机器学习",
+    "National": "国家级",
+    "Provincial": "省级",
+    "1st": "一等奖",
+    "2nd": "二等奖",
+    "3rd": "三等奖",
+    "PRC Software Copyright": "中国软件著作权",
+    "Website": "网站"
+  },
+  "usefulLinks": {
+    "Conference Deadlines": "https://ccfddl.com/"
+  }
+}

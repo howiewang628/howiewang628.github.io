@@ -1,0 +1,39 @@
+{
+  "teaching": [
+    {
+      "when": "Fall 2026",
+      "title": {
+        "en": "COMP 1230: Introduction to Computing with MATLAB",
+        "zh": "COMP 1230：MATLAB 计算导论"
+      },
+      "detail": {
+        "en": "Graduate Teaching Assistant, Auburn University",
+        "zh": "研究生助教，奥本大学"
+      },
+      "href": "https://www.coursicle.com/auburn/courses/COMP/1230/"
+    },
+    {
+      "when": "Fall 2022",
+      "title": {
+        "en": "Data Mining",
+        "zh": "数据挖掘"
+      },
+      "detail": {
+        "en": "Undergraduate Teaching Assistant, Liaoning Technical University",
+        "zh": "本科生助教，辽宁工程技术大学"
+      }
+    },
+    {
+      "when": "Fall 2020, Fall 2021",
+      "title": {
+        "en": "Numerical Analysis (National First-Class Undergraduate Course)",
+        "zh": "数值分析（国家级一流本科课程）"
+      },
+      "detail": {
+        "en": "Undergraduate Teaching Assistant, Liaoning Technical University",
+        "zh": "本科生助教，辽宁工程技术大学"
+      },
+      "href": "https://www.xuetangx.com/course/lntu07011001278/31377807"
+    }
+  ]
+}

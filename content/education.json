@@ -1,0 +1,43 @@
+{
+  "education": [
+    {
+      "when": "Aug 2026 – present",
+      "title": {
+        "en": "Ph.D. Student, Computer Science and Software Engineering",
+        "zh": "博士生，计算机科学与软件工程"
+      },
+      "place": {
+        "en": "Auburn University, Auburn, Alabama, USA",
+        "zh": "奥本大学，美国阿拉巴马州奥本市"
+      },
+      "logo": "images/logo-auburn.webp",
+      "href": "https://www.auburn.edu/"
+    },
+    {
+      "when": "Aug 2023 – Jan 2025",
+      "title": {
+        "en": "M.S.E. in Computer Science",
+        "zh": "计算机科学硕士（M.S.E.）"
+      },
+      "place": {
+        "en": "Johns Hopkins University, Baltimore, Maryland, USA",
+        "zh": "约翰斯·霍普金斯大学，美国马里兰州巴尔的摩市"
+      },
+      "logo": "images/logo-jhu.webp",
+      "href": "https://www.jhu.edu/"
+    },
+    {
+      "when": "Sep 2019 – Jul 2023",
+      "title": {
+        "en": "B.S. degree, Information and Computer Science and Mathematics",
+        "zh": "理学学士，信息与计算科学（数学）"
+      },
+      "place": {
+        "en": "Liaoning Technical University, Fuxin, Liaoning, China",
+        "zh": "辽宁工程技术大学，中国辽宁省阜新市"
+      },
+      "logo": "images/logo-lntu.webp",
+      "href": "https://en.lntu.edu.cn/"
+    }
+  ]
+}

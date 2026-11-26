@@ -1,0 +1,26 @@
+{
+  "service": [
+    {
+      "when": "2026",
+      "title": {
+        "en": "Conference reviewer",
+        "zh": "会议审稿人"
+      },
+      "detail": {
+        "en": "Conference on Neural Information Processing Systems (NeurIPS)",
+        "zh": "神经信息处理系统大会（NeurIPS）"
+      }
+    },
+    {
+      "when": "2025",
+      "title": {
+        "en": "Journal reviewer",
+        "zh": "期刊审稿人"
+      },
+      "detail": {
+        "en": "Scientific Reports (Nature Portfolio)",
+        "zh": "Scientific Reports（Nature Portfolio）"
+      }
+    }
+  ]
+}

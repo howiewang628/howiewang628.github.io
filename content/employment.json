@@ -1,0 +1,111 @@
+{
+  "employment": [
+    {
+      "when": "Aug 2026 – present",
+      "title": {
+        "en": "Research Assistant (PhD student)",
+        "zh": "研究助理（博士生）"
+      },
+      "detail": {
+        "en": "Collaborative Software Engineering Lab, Auburn University",
+        "zh": "奥本大学协同软件工程实验室"
+      },
+      "href": "https://eng.auburn.edu/"
+    },
+    {
+      "when": "Jun 2024 – Feb 2026",
+      "title": {
+        "en": "Research Assistant (master’s student)",
+        "zh": "研究助理（硕士生）"
+      },
+      "detail": {
+        "en": "ISLa Lab, Johns Hopkins University",
+        "zh": "约翰斯·霍普金斯大学 ISLa 实验室"
+      },
+      "href": "https://github.com/isle-dev"
+    },
+    {
+      "when": "Apr 2025 – Sep 2025",
+      "title": {
+        "en": "Research Collaborator",
+        "zh": "研究合作者"
+      },
+      "detail": {
+        "en": "Microsoft Research Montréal",
+        "zh": "微软研究院蒙特利尔"
+      },
+      "href": "https://microsoft.github.io/debug-gym/"
+    },
+    {
+      "when": "Jul 2024 – Aug 2024",
+      "title": {
+        "en": "Research Intern",
+        "zh": "研究实习生"
+      },
+      "detail": {
+        "en": "EACON, Beijing Easy Control Intelligent Driving Technology Co., Ltd.",
+        "zh": "EACON，北京易控智驾科技有限公司"
+      },
+      "href": "https://www.eaconmining.com.au/"
+    },
+    {
+      "when": "Mar 2024 – Apr 2024",
+      "title": {
+        "en": "Image Data Science Research Assistant",
+        "zh": "图像数据科学研究助理"
+      },
+      "detail": {
+        "en": "Computational Cognition, Vision, and Learning Lab, Johns Hopkins University",
+        "zh": "约翰斯·霍普金斯大学计算认知、视觉与学习实验室"
+      },
+      "href": "https://ccvl.jhu.edu/"
+    },
+    {
+      "when": "Sep 2021 – Sep 2023",
+      "title": {
+        "en": "Research Assistant (undergraduate student)",
+        "zh": "研究助理（本科生）"
+      },
+      "detail": {
+        "en": "Institute of Mathematics and Systems Science, Liaoning Technical University",
+        "zh": "辽宁工程技术大学数学与系统科学研究所"
+      },
+      "href": "https://en.lntu.edu.cn/"
+    }
+  ],
+  "industry": [
+    {
+      "when": "Current",
+      "title": {
+        "en": "Visiting Research Collaborator, EACON",
+        "zh": "访问研究合作者，EACON（易控智驾）"
+      },
+      "detail": {
+        "en": "AI agent reasoning for driverless fleet coordination in intelligent mining operations",
+        "zh": "智能采矿作业中无人驾驶车队协同的 AI 智能体推理"
+      }
+    },
+    {
+      "when": "Current",
+      "title": {
+        "en": "Co-founder, SpringTeng AI",
+        "zh": "联合创始人，SpringTeng AI"
+      },
+      "detail": {
+        "en": "AI data analysis systems and industrial software, with China Energy Zhunneng Group Investment",
+        "zh": "人工智能数据分析系统与工业软件，与国家能源集团准能集团合作"
+      }
+    },
+    {
+      "when": "Current",
+      "title": {
+        "en": "CAAI Technical Committee on Artificial Intelligence Foundations",
+        "zh": "中国人工智能学会人工智能基础专业委员会"
+      },
+      "detail": {
+        "en": "Mathematical foundations of artificial intelligence, with Prof. Fanhui Zeng",
+        "zh": "人工智能的数学基础，与 Fanhui Zeng 教授合作"
+      }
+    }
+  ]
+}

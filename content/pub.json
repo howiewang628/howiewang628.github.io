@@ -1,0 +1,198 @@
+{
+  "publicationTypeOrder": [
+    "Conference",
+    "Journal"
+  ],
+  "publications": [
+    {
+      "title": {
+        "en": "ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation",
+        "zh": "ByteSized32Refactored：面向大语言模型世界建模与评测的可扩展交互式文本游戏语料库"
+      },
+      "authors": [
+        "Haonan Wang",
+        "Junfeng Sun",
+        "Xingdi Yuan",
+        "Ruoyao Wang",
+        "Ziang Xiao"
+      ],
+      "venue": {
+        "en": "The 5th Wordplay Workshop at EMNLP 2025",
+        "zh": "EMNLP 2025 第五届 Wordplay 研讨会"
+      },
+      "year": 2025,
+      "type": "Conference",
+      "topic": "Language models",
+      "selected": true,
+      "links": {
+        "Paper": "https://arxiv.org/abs/2509.23979",
+        "Code": "https://github.com/isle-dev/BYTESIZED32-Refactored/",
+        "Slides": "https://docs.google.com/presentation/d/1fkBqKv6eUosixZW7ZpW51AjUzKbA_JZajmzdo4BR7Zc/edit",
+        "Video": "https://haonanwang628.github.io/assets/paper/bytesized32Refactored.mp4"
+      },
+      "bibtex": {
+        "eprint": "2509.23979",
+        "archivePrefix": "arXiv"
+      },
+      "abstract": {
+        "en": "Simulating interactive world models remains a core challenge in Large Language Models(LLMs). In this work, we introduce the ByteSized32Refactored, a refactored, modular, and extensible implementation of the original ByteSized32 corpus to explore the task of text game generation. We further optimize the code structure of each text game and create the GameBasic.py foundation library, which centralizes common logic across all 32 games by abstracting 7 base classes (GameObject, etc.) into reusable modules, thereby reducing from 20k to 10k total lines of Python code compared to the original Bytesized32. Our refactored implementation enables extendability - with our centralized design, ByteSized32Refactored can be more efficiently extended to include text games of new scenarios and specifications by reusing the shared logic and functionalities. Extensive experiments with GPT-4o demonstrate a mix of performance - with Bytesized32Refactored, the generated text games for unseen scenarios showcase quality improvements on two of the four evaluation dimensions while decreases on the other two, indicating that the hierarchical structure of the refactored code presents new challenges for LLMs. Overall, we highlight that our extensible code structure, centered on the foundation library and the modular optimization, not only facilitates LLM adaptation to environment specifications but also establishes a scalable environment that supports future extensions.",
+        "zh": "模拟交互式世界模型仍是大语言模型（LLM）面临的核心挑战。本文提出 ByteSized32Refactored，它是原 ByteSized32 语料库经过重构的模块化、可扩展实现，用于探索文本游戏生成任务。我们进一步优化了每个文本游戏的代码结构，并构建了 GameBasic.py 基础库：该库将 7 个基类（GameObject 等）抽象为可复用模块，集中管理全部 32 个游戏的公共逻辑，使 Python 代码总量由原 ByteSized32 的 2 万行减少到 1 万行。重构后的实现具有良好的可扩展性：借助集中式设计，通过复用共享的逻辑与功能，ByteSized32Refactored 能够更高效地扩展到新场景、新规格的文本游戏。基于 GPT-4o 的大量实验结果好坏参半：使用 ByteSized32Refactored 时，针对未见场景生成的文本游戏在四个评测维度中的两个上质量有所提升，在另外两个上有所下降，这表明重构代码的层次结构给大语言模型带来了新的挑战。总体而言，我们以基础库和模块化优化为核心的可扩展代码结构，不仅有助于大语言模型适应环境规格，也为今后的扩展建立了可伸缩的环境。"
+      }
+    },
+    {
+      "title": {
+        "en": "From Noise to Nuance: Enriching Subjective Data Annotation through Qualitative Analysis",
+        "zh": "从噪声到细微之处：以质性分析丰富主观数据标注"
+      },
+      "authors": [
+        "Ruyuan Wan",
+        "Haonan Wang",
+        "Ting-Hao Kenneth Huang",
+        "Jie Gao"
+      ],
+      "venue": {
+        "en": "The 4th HCI + NLP Workshop at EMNLP 2025",
+        "zh": "EMNLP 2025 第四届 HCI + NLP 研讨会"
+      },
+      "year": 2025,
+      "type": "Conference",
+      "topic": "Language models",
+      "selected": true,
+      "links": {
+        "Paper": "https://aclanthology.org/2025.hcinlp-1.20/"
+      },
+      "bibtex": {
+        "url": "https://aclanthology.org/2025.hcinlp-1.20/"
+      },
+      "abstract": {
+        "en": "Subjective data annotation (SDA) plays an important role in many NLP tasks, including sentiment analysis, toxicity detection, and bias identification. Conventional SDA often treats annotator disagreement as noise, overlooking its potential to reveal deeper insights. In contrast, qualitative data analysis (QDA) explicitly engages with diverse positionalities and treats disagreement as a meaningful source of knowledge. In this position paper, we argue that human annotators are a key source of valuable interpretive insights into subjective data beyond surface-level descriptions. Through a comparative analysis of SDA and QDA methodologies, we examine similarities and differences in task nature (e.g., human’s role, analysis content, cost, and completion conditions) and practice (annotation schema, annotation workflow, annotator selection, and evaluation). Based on this comparison, we propose five practical recommendations for enabling SDA to capture richer insights. We demonstrate these recommendations in a reinforcement learning from human feedback (RLHF) case study and envision that our interdisciplinary perspective will offer new directions for the field.",
+        "zh": "主观数据标注（SDA）在情感分析、毒性检测和偏见识别等许多自然语言处理任务中具有重要作用。传统的主观数据标注往往把标注者之间的分歧视为噪声，忽视了其揭示更深层洞见的潜力。相比之下，质性数据分析（QDA）明确地纳入多样的立场性，并将分歧视为有意义的知识来源。在这篇立场论文中，我们主张：对于主观数据，人类标注者是超越表层描述、提供宝贵解释性洞见的关键来源。通过对主观数据标注与质性数据分析方法论的比较，我们考察了二者在任务性质（如人的角色、分析内容、成本与完成条件）和实践（标注方案、标注流程、标注者选择与评估）上的异同。在此基础上，我们提出五条切实可行的建议，使主观数据标注能够获得更丰富的洞见。我们以基于人类反馈的强化学习（RLHF）为案例展示了这些建议，并期待这一跨学科视角为该领域带来新的方向。"
+      }
+    },
+    {
+      "title": {
+        "en": "PerspectiveCoder-LM: An LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis",
+        "zh": "PerspectiveCoder-LM：面向大规模语料归纳式文本编码分析的大语言模型多智能体系统"
+      },
+      "authors": [
+        "Haonan Wang",
+        "Junfeng Sun"
+      ],
+      "venue": {
+        "en": "GitHub",
+        "zh": "GitHub"
+      },
+      "year": 2025,
+      "type": "Conference",
+      "topic": "Language models",
+      "selected": true,
+      "bibtexType": "misc",
+      "links": {
+        "Project": "https://github.com/haonanwang628/PerspectiveCoder-LLM"
+      },
+      "bibtex": {
+        "url": "https://github.com/haonanwang628/PerspectiveCoder-LLM"
+      }
+    },
+    {
+      "title": {
+        "en": "Unsupervised feature selection algorithm based on L2,p-norm feature reconstruction",
+        "zh": "基于 L2,p 范数特征重构的无监督特征选择算法"
+      },
+      "authors": [
+        "Wei Liu",
+        "Qian Ning",
+        "Guangwei Liu",
+        "Haonan Wang",
+        "Yixin Zhu",
+        "Miao Zhong"
+      ],
+      "venue": {
+        "en": "PLOS ONE",
+        "zh": "PLOS ONE"
+      },
+      "year": 2025,
+      "type": "Journal",
+      "topic": "Machine learning",
+      "selected": false,
+      "links": {
+        "Paper": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431",
+        "Code": "https://github.com/haonanwang628/UnsupervisedFSA"
+      },
+      "bibtex": {
+        "volume": "20",
+        "number": "3",
+        "pages": "e0318431",
+        "doi": "10.1371/journal.pone.0318431"
+      },
+      "abstract": {
+        "en": "Traditional subspace feature selection methods typically rely on a fixed distance to compute residuals between the original and feature reconstruction spaces. However, this approach struggles to adapt to diverse datasets and often fails to handle noise and outliers effectively. In this paper, we propose an unsupervised feature selection method named unsupervised feature selection algorithm based on l2,p-norm feature reconstruction (NFRFS). Employing a flexible norm to represent both the original space and the spatial distance of feature reconstruction, enhances adaptability and broadens its applicability by adjusting p. Additionally, adaptive graph learning is integrated into the feature selection process to preserve the local geometric structure of the data. Features exhibiting sparsity and low redundancy are selected through the regularization constraint of the inner product in the feature selection matrix. To demonstrate the effectiveness of the method, numerical studies were conducted on 14 benchmark datasets. Our results indicate that the method outperforms 10 unsupervised feature selection algorithms in terms of clustering performance.",
+        "zh": "传统的子空间特征选择方法通常依赖固定的距离来计算原始空间与特征重构空间之间的残差。然而，这种做法难以适应多样的数据集，也往往不能有效处理噪声和异常值。本文提出一种基于 l2,p 范数特征重构的无监督特征选择方法（NFRFS）。该方法采用灵活的范数来表示原始空间以及特征重构的空间距离，通过调整 p 增强了适应性并拓宽了适用范围。此外，特征选择过程中引入了自适应图学习，以保持数据的局部几何结构；并通过特征选择矩阵内积的正则化约束，选出具有稀疏性和低冗余性的特征。为验证方法的有效性，我们在 14 个基准数据集上进行了数值实验。结果表明，该方法的聚类性能优于 10 种无监督特征选择算法。"
+      }
+    },
+    {
+      "title": {
+        "en": "Research on geometric figure classification algorithm based on Deep Learning",
+        "zh": "基于深度学习的几何图形分类算法研究"
+      },
+      "authors": [
+        "Ruiyang Wang",
+        "Haonan Wang",
+        "Junfeng Sun",
+        "Mingjia Zhao",
+        "Meng Liu"
+      ],
+      "venue": {
+        "en": "Scientific Journal of Intelligent Systems Research",
+        "zh": "Scientific Journal of Intelligent Systems Research"
+      },
+      "year": 2022,
+      "type": "Journal",
+      "topic": "Machine learning",
+      "selected": false,
+      "links": {
+        "Paper": "https://arxiv.org/abs/2404.16561"
+      },
+      "bibtex": {
+        "volume": "4",
+        "number": "6",
+        "eprint": "2404.16561",
+        "archivePrefix": "arXiv"
+      },
+      "abstract": {
+        "en": "In recent years, with the rapid development of computer information technology, the development of artificial intelligence has been accelerating. The traditional geometry recognition technology is relatively backward and the recognition rate is low. In the face of massive information database, the traditional algorithm model inevitably has the problems of low recognition accuracy and poor performance. Deep learning theory has gradually become a very important part of machine learning. The implementation of convolutional neural network (CNN) reduces the difficulty of graphics generation algorithm. In this paper, using the advantages of lenet-5 architecture sharing weights and feature extraction and classification, the proposed geometric pattern recognition algorithm model is faster in the training data set. By constructing the shared feature parameters of the algorithm model, the cross-entropy loss function is used in the recognition process to improve the generalization of the model and improve the average recognition accuracy of the test data set.",
+        "zh": "近年来，随着计算机信息技术的快速发展，人工智能的发展不断加速。传统的几何图形识别技术相对落后，识别率较低；面对海量信息数据库，传统算法模型不可避免地存在识别精度低、性能差的问题。深度学习理论已逐渐成为机器学习中非常重要的一部分，卷积神经网络（CNN）的应用降低了图形生成算法的难度。本文利用 LeNet-5 架构权值共享、特征提取与分类的优势，提出的几何图形识别算法模型在训练数据集上速度更快。通过构建算法模型的共享特征参数，并在识别过程中使用交叉熵损失函数，提高了模型的泛化能力以及在测试数据集上的平均识别精度。"
+      }
+    },
+    {
+      "title": {
+        "en": "Research status and future prospects of machine learning algorithm in big data analysis",
+        "zh": "大数据分析中机器学习算法的研究现状与未来展望"
+      },
+      "authors": [
+        "Haonan Wang"
+      ],
+      "venue": {
+        "en": "Journal of Network Computing and Applications",
+        "zh": "Journal of Network Computing and Applications"
+      },
+      "year": 2021,
+      "type": "Journal",
+      "topic": "Machine learning",
+      "selected": false,
+      "links": {
+        "Paper": "https://www.clausiuspress.com/article/1212.html"
+      },
+      "bibtex": {
+        "volume": "6",
+        "number": "1",
+        "pages": "1--5",
+        "doi": "10.23977/jnca.2021.060101"
+      },
+      "abstract": {
+        "en": "In the field of big data analysis, with the help of machine learning algorithm, the traditional mode of data analysis has been changed and the development of data processing and analysis has been promoted. This paper first explains the concepts of machine learning and big data analysis, then introduces the classic concepts and application concepts of three kinds of classical machine learning algorithms, namely naive Bayesian algorithm, K-means algorithm and SVM algorithm, and then discusses the application mode of machine learning algorithm in the emerging stage of big data environment, so as to enhance the value of big data processing. Finally, it looks forward to the big data processing The research trend of machine learning algorithm in this field is analyzed.",
+        "zh": "在大数据分析领域，借助机器学习算法，传统的数据分析模式得到了改变，数据分析与处理的发展得到了推动。本文首先阐述机器学习与大数据分析的概念，然后介绍朴素贝叶斯、K-means 和 SVM 三种经典机器学习算法的基本概念与应用概念，进而探讨大数据环境兴起阶段机器学习算法的应用模式，以提升大数据处理的价值。最后，对大数据处理进行展望，并分析机器学习算法在该领域的研究趋势。"
+      }
+    }
+  ]
+}

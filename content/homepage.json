@@ -1,0 +1,59 @@
+{
+  "profile": {
+    "name": "Haonan Wang",
+    "nativeName": "王浩男",
+    "role": {
+      "en": "PhD student",
+      "zh": "博士生"
+    },
+    "department": {
+      "en": "Computer Science and Software Engineering",
+      "zh": "计算机科学与软件工程系"
+    },
+    "university": {
+      "en": "Auburn University",
+      "zh": "奥本大学"
+    },
+    "email": "haw0078@auburn.edu",
+    "photo": "images/haonan-wang.webp",
+    "tagline": {
+      "en": "LLM Agent Reasoning Research Scientist",
+      "zh": "LLM 智能体推理研究员"
+    },
+    "links": {
+      "Google Scholar": "https://scholar.google.com/citations?user=DBxarZYAAAAJ&hl=en",
+      "GitHub": "https://github.com/haonanwang628",
+      "LinkedIn": "https://www.linkedin.com/in/haonanwang628",
+      "ORCID": "https://orcid.org/0009-0004-5615-7055",
+      "ResearchGate": "https://www.researchgate.net/profile/Haonan-Wang-44",
+      "Twitter": "https://twitter.com/haonanwang628"
+    },
+    "cvPdf": "https://haonanwang628.github.io/assets/CV/Howiewangcv1%20(2).pdf",
+    "location": {
+      "en": "USA",
+      "zh": "美国"
+    }
+  },
+  "interests": [
+    {
+      "en": "LLM agent reasoning",
+      "zh": "LLM 智能体推理"
+    },
+    {
+      "en": "Multi-agent collaboration",
+      "zh": "多智能体协作"
+    },
+    {
+      "en": "Legal AI",
+      "zh": "法律 AI"
+    },
+    {
+      "en": "Long-context reasoning",
+      "zh": "长上下文推理"
+    },
+    {
+      "en": "Retrieval-augmented generation",
+      "zh": "检索增强生成"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "honors": [
+    {
+      "when": "Oct 2022",
+      "title": {
+        "en": "China National Scholarship (Top 1%)",
+        "zh": "国家奖学金（前 1%）"
+      },
+      "issuer": {
+        "en": "Ministry of Education of the People’s Republic of China",
+        "zh": "中华人民共和国教育部"
+      },
+      "text": {
+        "en": "Awarded the highly competitive China National Scholarship, granted to the top 1% of students nationwide in recognition of outstanding academic performance, research excellence, and comprehensive personal development.",
+        "zh": "国家奖学金竞争激烈，授予全国前 1% 的学生，以表彰其优异的学业成绩、突出的科研表现和全面的个人发展。"
+      }
+    },
+    {
+      "when": "May 2023",
+      "title": {
+        "en": "Outstanding Student Scholarship, Special Prize (Top 1%)",
+        "zh": "优秀学生奖学金特等奖（前 1%）"
+      },
+      "issuer": {
+        "en": "Liaoning Province Government",
+        "zh": "辽宁省政府"
+      }
+    },
+    {
+      "when": "May 2019, 2020, 2021, 2022",
+      "title": {
+        "en": "Outstanding Student Scholarship, First Prize (Top 10%)",
+        "zh": "优秀学生奖学金一等奖（前 10%）"
+      },
+      "issuer": {
+        "en": "Liaoning Technical University",
+        "zh": "辽宁工程技术大学"
+      }
+    }
+  ],
+  "competitions": [
+    {
+      "place": "1st",
+      "title": {
+        "en": "12th Mathor Cup College Mathematical Modeling Challenge",
+        "zh": "第十二届 MathorCup 高校数学建模挑战赛"
+      },
+      "level": "National",
+      "year": 2022
+    },
+    {
+      "place": "1st",
+      "title": {
+        "en": "7th Shuwei Mathematical Modeling Challenge for College Students",
+        "zh": "第七届“数维杯”大学生数学建模挑战赛"
+      },
+      "level": "National",
+      "year": 2022
+    },
+    {
+      "place": "1st",
+      "title": {
+        "en": "2nd Liaoning Mathematical Modeling Contest",
+        "zh": "第二届辽宁省数学建模竞赛"
+      },
+      "level": "Provincial",
+      "year": 2022
+    },
+    {
+      "place": "1st",
+      "title": {
+        "en": "Liaoning Province “Shuo Ri Cup” College Student Computer Design Competition",
+        "zh": "辽宁省“朔日杯”大学生计算机设计竞赛"
+      },
+      "level": "Provincial",
+      "year": 2021
+    },
+    {
+      "place": "1st",
+      "title": {
+        "en": "Liaoning Agricultural Economic Modeling Competition",
+        "zh": "辽宁省农业经济建模竞赛"
+      },
+      "level": "Provincial",
+      "year": 2021
+    },
+    {
+      "place": "2nd",
+      "title": {
+        "en": "National College Students “Hua Shu Cup” Mathematical Modeling Competition",
+        "zh": "“华数杯”全国大学生数学建模竞赛"
+      },
+      "level": "National",
+      "year": 2021
+    },
+    {
+      "place": "2nd",
+      "title": {
+        "en": "1st Liaoning Mathematical Modeling Contest",
+        "zh": "第一届辽宁省数学建模竞赛"
+      },
+      "level": "Provincial",
+      "year": 2021
+    },
+    {
+      "place": "3rd",
+      "title": {
+        "en": "Liaoning Province “Shuo Ri Cup” College Student Computer Design Competition",
+        "zh": "辽宁省“朔日杯”大学生计算机设计竞赛"
+      },
+      "level": "Provincial",
+      "year": 2022
+    },
+    {
+      "place": "3rd",
+      "title": {
+        "en": "4th Northeast Three Provinces Mathematical Modeling Competition",
+        "zh": "第四届东北三省数学建模竞赛"
+      },
+      "level": "Provincial",
+      "year": 2022
+    },
+    {
+      "place": "3rd",
+      "title": {
+        "en": "14th National Undergraduate Computer Design Competition",
+        "zh": "第十四届中国大学生计算机设计大赛"
+      },
+      "level": "National",
+      "year": 2021
+    },
+    {
+      "place": "3rd",
+      "title": {
+        "en": "11th Mathor Cup University Mathematical Modeling Challenge",
+        "zh": "第十一届 MathorCup 高校数学建模挑战赛"
+      },
+      "level": "National",
+      "year": 2021
+    }
+  ]
+}

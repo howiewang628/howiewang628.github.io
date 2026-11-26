@@ -1,0 +1,44 @@
+{
+  "mentoring": [
+    {
+      "when": "Fall 2026",
+      "title": "Yuxi Liu",
+      "detail": {
+        "en": "Undergraduate student, Nankai University. Project in progress.",
+        "zh": "本科生，南开大学。项目进行中。"
+      }
+    },
+    {
+      "when": "Fall 2025",
+      "title": "Mingjia Zhao",
+      "detail": {
+        "en": "Master’s student, Liaoning Technical University. Incremental Expansion Method for Modular Reinforcement Learning Based on Language Embedding.",
+        "zh": "硕士生，辽宁工程技术大学。基于语言嵌入的模块化强化学习增量扩展方法。"
+      }
+    },
+    {
+      "when": "Fall 2025",
+      "title": "Linhai Zhang",
+      "detail": {
+        "en": "Master’s student, Liaoning Technical University. HPPO-ALNS: Hierarchical Control of Search Segments for Vehicle Routing with Time Windows.",
+        "zh": "硕士生，辽宁工程技术大学。HPPO-ALNS：带时间窗车辆路径问题中搜索片段的分层控制。"
+      }
+    },
+    {
+      "when": "Fall 2025",
+      "title": "Diandian Li",
+      "detail": {
+        "en": "Master’s student, Liaoning Technical University. Project in progress.",
+        "zh": "硕士生，辽宁工程技术大学。项目进行中。"
+      }
+    },
+    {
+      "when": "Fall 2024",
+      "title": "Junfeng Sun",
+      "detail": {
+        "en": "Master’s student, Liaoning Technical University. Horizon-Reachability-Aware Any-Step Dynamics Model for Offline Goal-Conditioned Reinforcement Learning.",
+        "zh": "硕士生，辽宁工程技术大学。面向离线目标条件强化学习的视界可达性感知任意步动力学模型。"
+      }
+    }
+  ]
+}

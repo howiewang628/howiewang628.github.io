@@ -1,0 +1,15 @@
+{
+  "talks": [
+    {
+      "when": "May 2026",
+      "title": {
+        "en": "From Interactive Worlds to Agent Reasoning: World Modeling with Large Language Models",
+        "zh": "从交互世界到智能体推理：大语言模型的世界建模"
+      },
+      "detail": {
+        "en": "Invited talk, Institute of Machine Learning and Data Mining, Liaoning Technical University",
+        "zh": "特邀报告，辽宁工程技术大学机器学习与数据挖掘研究所"
+      }
+    }
+  ]
+}

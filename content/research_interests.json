@@ -1,0 +1,34 @@
+{
+  "researchInterests": {
+    "title": {
+      "en": "Research interests.",
+      "zh": "研究兴趣"
+    },
+    "intro": {
+      "en": "My current research broadly focuses on LLM agent reasoning and Legal AI, centered on two closely connected directions.",
+      "zh": "我目前的研究聚焦于 LLM 智能体推理与法律 AI，主要围绕两个密切相关的方向展开。"
+    },
+    "items": [
+      {
+        "title": {
+          "en": "Multi-Agent Communication & Collaboration Reasoning",
+          "zh": "多智能体沟通与协作推理"
+        },
+        "text": {
+          "en": "Studying how collaboration structures, interaction protocols, feedback, and agent heterogeneity shape reasoning performance, reliability, and failure modes in multi-agent systems.",
+          "zh": "研究协作结构、交互协议、反馈机制与智能体异质性如何影响多智能体系统的推理性能、可靠性与失效模式。"
+        }
+      },
+      {
+        "title": {
+          "en": "Legal AI and Long-Context Reasoning",
+          "zh": "法律 AI 与长上下文推理"
+        },
+        "text": {
+          "en": "Studying complex long-context documents for legal reasoning in LLM-based systems and Retrieval-Augmented Generation (RAG), with particular interest in evidence grounding, multi-perspective reasoning, and collaborative decision-making.",
+          "zh": "研究基于大语言模型的系统与检索增强生成（RAG）如何在复杂长文档上进行法律推理，重点关注证据溯源、多视角推理与协同决策。"
+        }
+      }
+    ]
+  }
+}

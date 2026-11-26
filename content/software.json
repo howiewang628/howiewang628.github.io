@@ -1,0 +1,112 @@
+{
+  "software": {
+    "title": {
+      "en": "Software copyrights",
+      "zh": "软件著作权"
+    },
+    "intro": {
+      "en": "Software copyrights resulting from collaborative university–industry research projects with academic and industrial partners in China.",
+      "zh": "以下软件著作权来自与国内学术界和产业界伙伴开展的校企合作研究项目。"
+    },
+    "items": [
+      {
+        "title": {
+          "en": "Artificial Intelligence Robot Programming Interactive Control System",
+          "zh": "人工智能机器人编程交互控制系统"
+        },
+        "text": {
+          "en": "An interactive environment for programming, monitoring and controlling AI robots.",
+          "zh": "用于 AI 机器人编程、监控与控制的交互式环境。"
+        },
+        "authors": "Haonan Wang, Mingjia Zhao, et al.",
+        "type": "PRC Software Copyright",
+        "year": 2022,
+        "registration": "2022SR1053901"
+      },
+      {
+        "title": {
+          "en": "Image Recognition Processing Operation Platform",
+          "zh": "图像识别处理操作平台"
+        },
+        "text": {
+          "en": "A platform that brings image preprocessing, recognition and result management into one workflow.",
+          "zh": "将图像预处理、识别与结果管理整合为统一流程的平台。"
+        },
+        "authors": "Haonan Wang, Junfeng Sun, et al.",
+        "type": "PRC Software Copyright",
+        "year": 2022,
+        "registration": "2022SR1052419"
+      },
+      {
+        "title": {
+          "en": "Artificial Intelligence Community Security Equipment Monitoring System",
+          "zh": "人工智能社区安防设备监控系统"
+        },
+        "text": {
+          "en": "A monitoring system that tracks the status of community security equipment and flags anomalies.",
+          "zh": "跟踪社区安防设备状态并提示异常的监控系统。"
+        },
+        "authors": "Haonan Wang, Chang Liu, et al.",
+        "type": "PRC Software Copyright",
+        "year": 2022,
+        "registration": "2022SR1052492"
+      },
+      {
+        "title": {
+          "en": "A Network Behavior Analysis System Based on Machine Learning",
+          "zh": "基于机器学习的网络行为分析系统"
+        },
+        "text": {
+          "en": "A system that uses machine learning to analyze network activity and identify unusual behavior.",
+          "zh": "利用机器学习分析网络活动并识别异常行为的系统。"
+        },
+        "authors": "Haonan Wang, Meng Liu, et al.",
+        "type": "PRC Software Copyright",
+        "year": 2022,
+        "registration": "2022SR1049807"
+      },
+      {
+        "title": {
+          "en": "Autonomous Driving Intelligent Dispatching Center Management System",
+          "zh": "自动驾驶智能调度中心管理系统"
+        },
+        "text": {
+          "en": "A management system for scheduling and coordinating autonomous vehicles from a dispatching center.",
+          "zh": "在调度中心对自动驾驶车辆进行调度与协同的管理系统。"
+        },
+        "authors": "Haonan Wang, Chi Li, et al.",
+        "type": "PRC Software Copyright",
+        "year": 2022,
+        "registration": "2022SR1052526"
+      },
+      {
+        "title": {
+          "en": "Unmanned Shortest Path Planning System",
+          "zh": "无人化最短路径规划系统"
+        },
+        "text": {
+          "en": "A path planning system that finds the shortest routes for unmanned systems.",
+          "zh": "为无人系统寻找最短路线的路径规划系统。"
+        },
+        "authors": "Haonan Wang, Ruiyang Wang, et al.",
+        "type": "PRC Software Copyright",
+        "year": 2022,
+        "registration": "2022SR0935020"
+      },
+      {
+        "title": {
+          "en": "Data Operation Analysis and Collection System Based on Machine Learning",
+          "zh": "基于机器学习的数据运营分析与采集系统"
+        },
+        "text": {
+          "en": "A system that collects operational data and analyzes it with machine learning.",
+          "zh": "采集运营数据并用机器学习进行分析的系统。"
+        },
+        "authors": "Haonan Wang, Junfeng Sun, et al.",
+        "type": "PRC Software Copyright",
+        "year": 2022,
+        "registration": "2022SR1052428"
+      }
+    ]
+  }
+}

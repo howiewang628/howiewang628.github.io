@@ -1,0 +1,16 @@
+{
+  "unitemind": {
+    "title": { "en": "UniteMind AI", "zh": "UniteMind AI" },
+    "role": { "en": "Co-founder", "zh": "联合创始人" },
+    "text": {
+      "en": "A startup community building AI agents for business operations, beginning with intelligent scheduling that re-plans work for fleets, crews and machines when plans change.",
+      "zh": "一个为企业运营打造 AI 智能体的创业社区，从智能调度入手，在计划变化时为车队、班组和设备重新安排工作。"
+    },
+    "links": {
+      "Website": {
+        "en": "https://haonanwang628.github.io/unitemindai/?lang=en",
+        "zh": "https://haonanwang628.github.io/unitemindai/?lang=zh"
+      }
+    }
+  }
+}

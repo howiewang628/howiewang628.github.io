@@ -1,0 +1,18 @@
+{
+  "news": [
+    {
+      "date": "Sep 2026",
+      "text": {
+        "en": "I joined Auburn University as a first-year PhD student.",
+        "zh": "我加入奥本大学，成为一年级博士生。"
+      }
+    },
+    {
+      "date": "May 2026",
+      "text": {
+        "en": "Invited talk at the Institute of Machine Learning and Data Mining, Liaoning Technical University.",
+        "zh": "应邀在辽宁工程技术大学机器学习与数据挖掘研究所作报告。"
+      }
+    }
+  ]
+}
