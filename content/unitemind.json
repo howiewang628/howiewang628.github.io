@@ -1,6 +1,7 @@
 {
   "unitemind": {
     "title": { "en": "UniteMind AI", "zh": "UniteMind AI" },
+    "logo": "images/unitemind-ai.webp",
     "role": { "en": "Co-founder", "zh": "联合创始人" },
     "text": {
       "en": "A startup community that applies AI agent reasoning to solve real problems for businesses.",
